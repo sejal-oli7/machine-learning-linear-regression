@@ -17,7 +17,13 @@ Evaluate model performance using metrics
  
  Dataset
 Dataset used: house_price
-Features: (example: size, age, income, etc.)
+Features: X1 transaction date	
+X2 house age	
+X3 distance to the nearest MRT station	
+X4 number of convenience stores
+X5 latitude	
+X6 longitude
+
 Target variable: Y house price of unit area
 
  Technologies Used
