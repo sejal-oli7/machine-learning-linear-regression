@@ -18,7 +18,7 @@ Evaluate model performance using metrics
  Dataset
 Dataset used: house_price
 Features: (example: size, age, income, etc.)
-Target variable: (what you are predicting)
+Target variable: Y house price of unit area
 
  Technologies Used
 Python 
