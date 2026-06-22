@@ -20,9 +20,8 @@ Dataset used: house_price
 Features: (example: size, age, income, etc.)
 Target variable: (what you are predicting)
 
-
-🛠️ Technologies Used
-Python 🐍
+ Technologies Used
+Python 
 Pandas
 NumPy
 Matplotlib / Seaborn
