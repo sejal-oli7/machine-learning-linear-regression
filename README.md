@@ -57,7 +57,7 @@ R² Score
  
 How to Run This Project
 Clone the repository
-git clone https://github.com/your-username/linear-regression-project.git
+git clone https://github.com/sejal-oli7/linear-regression-project.git
 
 Go to project folder
 cd linear-regression-project
